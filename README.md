@@ -1,83 +1,80 @@
-<!-- Profile README for @vaibhavjais2503 -->
+<!-- Dark Themed Profile README for @vaibhavjais2503 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=800&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vaibhav+Jaiswal+%F0%9F%91%8B;AI%2FML+%26+Robotics+Enthusiast;Full-Stack+Developer;Competitive+Programmer;Always+building+cool+things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2600&pause=900&center=true&vCenter=true&repeat=true&width=1000&lines=Hi%2C+I'm+Vaibhav+Jaiswal+%F0%9F%91%8B;AI%2FML+%26+Robotics+%7C+Full-Stack+Dev+%7C+CP+Enthusiast;I+build+clean+products+and+ship+fast+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=vaibhavjais2503"><img src="https://komarev.com/ghpvc/?username=vaibhavjais2503" alt="views"></a>
-  <a href="https://github.com/vaibhavjais2503?tab=followers"><img src="https://img.shields.io/github/followers/vaibhavjais2503?style=flat" alt="followers"></a>
-  <a href="https://github.com/vaibhavjais2503?tab=stars"><img src="https://img.shields.io/github/stars/vaibhavjais2503?affiliations=OWNER%2CCOLLABORATOR" alt="stars"></a>
-</p>
-
----
-
-### 🚀 About Me
-- 🔭 Building projects across **AI/ML**, **Robotics**, and **Web Dev**
-- 🧠 Interests: **Generative AI**, **Computer Vision**, **Reinforcement Learning**
-- 💻 Tools I like: **Python, C++, JavaScript, React, PyTorch, Node.js**
-- 🏆 Competitive Programming (CodeChef, LeetCode)
-- 📚 Always learning, always shipping
-
----
-
-### 🧰 Tech Stack
-<p align="center">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <a href="https://komarev.com/ghpvc/?username=vaibhavjais2503"><img src="https://komarev.com/ghpvc/?username=vaibhavjais2503&style=for-the-badge&color=blueviolet" /></a>
+  <a href="https://github.com/vaibhavjais2503?tab=followers"><img src="https://img.shields.io/github/followers/vaibhavjais2503?style=for-the-badge&color=0b93f6" /></a>
+  <a href="https://github.com/vaibhavjais2503?tab=stars"><img src="https://img.shields.io/github/stars/vaibhavjais2503?style=for-the-badge&color=ff69b4&affiliations=OWNER%2CCOLLABORATOR" /></a>
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+## 🔗 Socials & Coding Profiles
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaibhavjais2503&show_icons=true&rank_icon=github&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=vaibhavjais2503&hide_border=true" />
+  <!-- Change handles here if needed -->
+  <a href="https://www.linkedin.com/in/vaibhav-jaiswal-61ab7a32a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://codechef.com/users/yash_jais_0110"><img src="https://img.shields.io/badge/CodeChef-703C1E?logo=codechef&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://codeforces.com/profile/vaibhavjais_01"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://leetcode.com/u/vaibhavjais_01/"><img src="https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.hackerrank.com/profile/vaibhavjaiswal28"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" /></a>
+</p>
+
+---
+
+## 🧰 Tech Stack (big icons)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,nodejs,express,next,tailwind,html,css,git,docker,linux,mongodb,mysql,postgres,redis,opencv,pytorch,tensorflow,sklearn,aws,gcp,vscode&perline=10" />
+</p>
+
+---
+
+## 📌 Pinned Highlights (edit repo names)
+<p align="center">
+  <!-- Replace repo= with your real repo names (owner stays your username) -->
+  <a href="https://github.com/vaibhavjais2503/REPO_ONE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavjais2503&repo=REPO_ONE&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/vaibhavjais2503/REPO_TWO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavjais2503&repo=REPO_TWO&theme=tokyonight&hide_border=true" /></a>
+  <br/>
+  <a href="https://github.com/vaibhavjais2503/REPO_THREE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavjais2503&repo=REPO_THREE&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/vaibhavjais2503/REPO_FOUR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavjais2503&repo=REPO_FOUR&theme=tokyonight&hide_border=true" /></a>
+</p>
+
+---
+
+## 📊 GitHub Analytics (dark)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vaibhavjais2503&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=vaibhavjais2503&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavjais2503&layout=compact&langs_count=10&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavjais2503&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vaibhavjais2503&theme=algolia&margin-w=8&margin-h=8" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavjais2503&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-### 🗂️ All Public Repositories (auto-updated)
+## 🗂️ All Public Repositories (auto-updated)
 <!--AUTO-REPO-LIST:START-->
 Loading your repositories...
 <!--AUTO-REPO-LIST:END-->
 
-> Tip: See all → https://github.com/vaibhavjais2503?tab=repositories
-
 ---
 
-### 🌈 Contribution Snake
+## 🌈 Contribution Snake (dark)
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhavjais2503/vaibhavjais2503/output/github-snake-dark.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/vaibhavjais2503/vaibhavjais2503/output/github-snake.svg" />
-  </picture>
+  <!-- Always show the dark SVG -->
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vaibhavjais2503/vaibhavjais2503/output/github-snake-dark.svg" />
 </p>
 
 ---
 
-### 🔗 Connect
-<p align="center">
-  <a href="https://github.com/vaibhavjais2503"><img src="https://img.shields.io/badge/GitHub-@vaibhavjais2503-white?logo=github" /></a>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
-</p>
-
+## ✨ About
+- 🔭 AI/ML • Robotics • Full-Stack  
+- ⚡ Love clean UI, fast backends, and shipping quickly  
+- 📨 Reach me: open an issue on any repo or DM on LinkedIn
