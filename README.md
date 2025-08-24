@@ -30,15 +30,11 @@
 
 ---
 
-## 📌 Pinned Highlights (edit repo names)
-<p align="center">
-  <!-- Replace repo= with your real repo names (owner stays your username) -->
-  <a href="https://github.com/vaibhavjais2503/REPO_ONE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavjais2503&repo=REPO_ONE&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/vaibhavjais2503/REPO_TWO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavjais2503&repo=REPO_TWO&theme=tokyonight&hide_border=true" /></a>
-  <br/>
-  <a href="https://github.com/vaibhavjais2503/REPO_THREE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavjais2503&repo=REPO_THREE&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/vaibhavjais2503/REPO_FOUR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavjais2503&repo=REPO_FOUR&theme=tokyonight&hide_border=true" /></a>
-</p>
+## 📌 Project Cards (ALL repos, dark)
+<!--AUTO-PIN-CARDS:START-->
+Loading cards...
+<!--AUTO-PIN-CARDS:END-->
+
 
 ---
 
