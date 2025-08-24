@@ -1,6 +1,6 @@
 <!-- Dark Themed Profile README for @vaibhavjais2503 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2600&pause=900&center=true&vCenter=true&repeat=true&width=1000&lines=Hi%2C+I'm+Vaibhav+Jaiswal+%F0%9F%91%8B;AI%2FML+%26+Robotics+%7C+Full-Stack+Dev+%7C+CP+Enthusiast;I+build+clean+products+and+ship+fast+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2600&pause=900&center=true&vCenter=true&repeat=true&width=1000&lines=Hi%2C+I'm+Vaibhav+Jaiswal+%F0%9F%91%8B;AI%2FML+%26+Robotics+%7C+Feontend+Dev+%7C+CP+Enthusiast;I+build+clean+products+and+ship+fast+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
