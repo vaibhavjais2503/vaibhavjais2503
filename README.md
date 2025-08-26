@@ -69,10 +69,11 @@
 
 ## 🎨 Fun Cartoon Section
 <p align="center">
-  <img src="https://share.google/images/fmgpyhHhnYN8JnRZJ" width="250" alt="Cartoon1" />
+  <img src="assets/cartoon1.jpg" width="250" alt="Cartoon1" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://share.google/images/V7yEAiRuZKvAUgBEW" width="250" alt="Cartoon2" />
+  <img src="assets/cartoon2.jpg" width="250" alt="Cartoon2" />
 </p>
+
 
 ---
 
