@@ -108,6 +108,6 @@
 ---
 
 ## ✨ About
-- 🔭 AI/ML • Robotics • Full-Stack  
-- ⚡ Love clean UI, fast backends, and shipping quickly  
+- 🔭 AI/ML • Robotics • Data-Science  
+- ⚡ Love turning data into insights and building smart models
 - 📨 Reach me: open an issue on any repo or DM on LinkedIn
