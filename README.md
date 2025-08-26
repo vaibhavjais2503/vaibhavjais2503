@@ -64,13 +64,18 @@
 <p align="center">
   <img alt="github-snake" src="https://raw.githubusercontent.com/vaibhavjais2503/vaibhavjais2503/output/github-snake-dark.svg" />
 </p>
-
 ## 🎨 Fun Cartoon Section
-<p align="center">
-  <img src="assets/cartoon1.jpg" height="350" alt="Cartoon1" />
-  &nbsp;&nbsp;
-  <img src="assets/cartoon2.jpg" height="350" alt="Cartoon2" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/cartoon1.jpg" height="300" alt="Cartoon1" />
+    </td>
+    <td align="center">
+      <img src="assets/cartoon2.jpg" height="300" alt="Cartoon2" />
+    </td>
+  </tr>
+</table>
+
 
 
 
