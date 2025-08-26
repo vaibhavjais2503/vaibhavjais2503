@@ -66,12 +66,11 @@
 </p>
 
 ---
-
 ## 🎨 Fun Cartoon Section
 <p align="center">
-  <img src="assets/cartoon1.jpg" width="250" alt="Cartoon1" />
+  <img src="assets/cartoon1.jpg" height="300" width="400" alt="Cartoon1" />
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/cartoon2.jpg" width="250" alt="Cartoon2" />
+  <img src="assets/cartoon2.jpg" height="300" width="400" alt="Cartoon2" />
 </p>
 
 
