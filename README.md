@@ -13,9 +13,8 @@
 
 ## 🔗 Socials & Coding Profiles
 <p align="center">
-  <!-- Change handles here if needed -->
   <a href="https://www.linkedin.com/in/vaibhav-jaiswal-61ab7a32a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://codechef.com/users/yash_jais_0110"><img src="https://img.shields.io/badge/CodeChef-703C1E?logo=codechef&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.codechef.com/users/yash_jais_0110"><img src="https://img.shields.io/badge/CodeChef-703C1E?logo=codechef&logoColor=white&style=for-the-badge" /></a>
   <a href="https://codeforces.com/profile/vaibhavjais_01"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=for-the-badge" /></a>
   <a href="https://leetcode.com/u/vaibhavjais_01/"><img src="https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.hackerrank.com/profile/vaibhavjaiswal28"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" /></a>
@@ -30,11 +29,10 @@
 
 ---
 
-## 📌 Project Cards (ALL repos, dark)
+## 📌 Project Cards (Top repos, dark)
 <!--AUTO-PIN-CARDS:START-->
-Loading cards...
+<p align="center"><i>Auto-generated dark repo cards will appear here after the workflow runs.</i></p>
 <!--AUTO-PIN-CARDS:END-->
-
 
 ---
 
@@ -57,14 +55,13 @@ Loading cards...
 
 ## 🗂️ All Public Repositories (auto-updated)
 <!--AUTO-REPO-LIST:START-->
-Loading your repositories...
+<i>Auto-generated list will appear here after the workflow runs.</i>
 <!--AUTO-REPO-LIST:END-->
 
 ---
 
 ## 🌈 Contribution Snake (dark)
 <p align="center">
-  <!-- Always show the dark SVG -->
   <img alt="github-snake" src="https://raw.githubusercontent.com/vaibhavjais2503/vaibhavjais2503/output/github-snake-dark.svg" />
 </p>
 
