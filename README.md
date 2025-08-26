@@ -31,7 +31,27 @@
 
 ## 📌 Project Cards (Top repos, dark)
 <!--AUTO-PIN-CARDS:START-->
-<p align="center"><i>Auto-generated dark repo cards will appear here after the workflow runs.</i></p>
+<p align="center">
+<a href="https://github.com/vaibhavjais2503/vaibhavjais2503">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavjais2503&repo=vaibhavjais2503&theme=dark&hide_border=true" />
+     </a>
+<a href="https://github.com/vaibhavjais2503/Plant_Disease_Detection">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavjais2503&repo=Plant_Disease_Detection&theme=dark&hide_border=true" />
+     </a>
+</p>
+<p align="center">
+<a href="https://github.com/vaibhavjais2503/SpamShield">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavjais2503&repo=SpamShield&theme=dark&hide_border=true" />
+     </a>
+<a href="https://github.com/vaibhavjais2503/IPL-Predictor">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavjais2503&repo=IPL-Predictor&theme=dark&hide_border=true" />
+     </a>
+</p>
+<p align="center">
+<a href="https://github.com/vaibhavjais2503/demo">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavjais2503&repo=demo&theme=dark&hide_border=true" />
+     </a>
+</p>
 <!--AUTO-PIN-CARDS:END-->
 
 ---
@@ -55,7 +75,11 @@
 
 ## 🗂️ All Public Repositories (auto-updated)
 <!--AUTO-REPO-LIST:START-->
-<i>Auto-generated list will appear here after the workflow runs.</i>
+- [vaibhavjais2503](https://github.com/vaibhavjais2503/vaibhavjais2503) — HELLO EVERYONE  • ★ 0 • updated 2025-08-26
+- [Plant_Disease_Detection](https://github.com/vaibhavjais2503/Plant_Disease_Detection) — _No description_  • ★ 0 • updated 2025-08-25
+- [SpamShield](https://github.com/vaibhavjais2503/SpamShield) — _No description_  • ★ 0 • updated 2025-04-13
+- [IPL-Predictor](https://github.com/vaibhavjais2503/IPL-Predictor) — _No description_  • ★ 0 • updated 2025-04-13
+- [demo](https://github.com/vaibhavjais2503/demo) — _No description_  • ★ 0 • updated 2023-01-29
 <!--AUTO-REPO-LIST:END-->
 
 ---
