@@ -22,14 +22,14 @@
 
 ---
 
-## 🧰 Tech Stack (big icons)
+## 🧰 Tech Stack 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,nodejs,express,next,tailwind,html,css,git,docker,linux,mongodb,mysql,postgres,redis,opencv,pytorch,tensorflow,sklearn,aws,gcp,vscode&perline=10" />
 </p>
 
 ---
 
-## 📌 Project Cards (Top repos, dark)
+## 📌 Project Cards 
 <!--AUTO-PIN-CARDS:START-->
 <p align="center">
 <a href="https://github.com/vaibhavjais2503/vaibhavjais2503">
@@ -56,7 +56,7 @@
 
 ---
 
-## 📊 GitHub Analytics (dark)
+## 📊 GitHub Analytics 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=vaibhavjais2503&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://streak-stats.demolab.com?user=vaibhavjais2503&theme=tokyonight&hide_border=true" />
@@ -73,7 +73,7 @@
 
 ---
 
-## 🗂️ All Public Repositories (auto-updated)
+## 🗂️ All Public Repositories 
 <!--AUTO-REPO-LIST:START-->
 - [vaibhavjais2503](https://github.com/vaibhavjais2503/vaibhavjais2503) — HELLO EVERYONE  • ★ 0 • updated 2025-08-26
 - [Plant_Disease_Detection](https://github.com/vaibhavjais2503/Plant_Disease_Detection) — _No description_  • ★ 0 • updated 2025-08-25
@@ -84,7 +84,7 @@
 
 ---
 
-## 🌈 Contribution Snake (dark)
+## 🌈 Contribution Snake 
 <p align="center">
   <img alt="github-snake" src="https://raw.githubusercontent.com/vaibhavjais2503/vaibhavjais2503/output/github-snake-dark.svg" />
 </p>
