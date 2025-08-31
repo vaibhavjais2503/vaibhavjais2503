@@ -32,22 +32,25 @@
 ## 📌 Project Cards 
 <!--AUTO-PIN-CARDS:START-->
 <p align="center">
+<a href="https://github.com/vaibhavjais2503/webhook-inbox">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavjais2503&repo=webhook-inbox&theme=dark&hide_border=true" />
+     </a>
 <a href="https://github.com/vaibhavjais2503/vaibhavjais2503">
        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavjais2503&repo=vaibhavjais2503&theme=dark&hide_border=true" />
      </a>
+</p>
+<p align="center">
 <a href="https://github.com/vaibhavjais2503/Plant_Disease_Detection">
        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavjais2503&repo=Plant_Disease_Detection&theme=dark&hide_border=true" />
      </a>
-</p>
-<p align="center">
 <a href="https://github.com/vaibhavjais2503/SpamShield">
        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavjais2503&repo=SpamShield&theme=dark&hide_border=true" />
      </a>
+</p>
+<p align="center">
 <a href="https://github.com/vaibhavjais2503/IPL-Predictor">
        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavjais2503&repo=IPL-Predictor&theme=dark&hide_border=true" />
      </a>
-</p>
-<p align="center">
 <a href="https://github.com/vaibhavjais2503/demo">
        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavjais2503&repo=demo&theme=dark&hide_border=true" />
      </a>
@@ -75,6 +78,7 @@
 
 ## 🗂️ All Public Repositories 
 <!--AUTO-REPO-LIST:START-->
+- [webhook-inbox](https://github.com/vaibhavjais2503/webhook-inbox) — A lightweight backend service to capture, inspect, and manage webhooks. Built with Node.js, Express, and SQLite.  • ★ 0 • updated 2025-08-31
 - [vaibhavjais2503](https://github.com/vaibhavjais2503/vaibhavjais2503) — HELLO EVERYONE  • ★ 0 • updated 2025-08-31
 - [Plant_Disease_Detection](https://github.com/vaibhavjais2503/Plant_Disease_Detection) — _No description_  • ★ 0 • updated 2025-08-25
 - [SpamShield](https://github.com/vaibhavjais2503/SpamShield) — _No description_  • ★ 0 • updated 2025-04-13
