@@ -35,8 +35,8 @@
 <a href="https://github.com/vaibhavjais2503/vaibhavjais2503">
        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavjais2503&repo=vaibhavjais2503&theme=dark&hide_border=true" />
      </a>
-<a href="https://github.com/vaibhavjais2503/ipl-cricket-predictor">
-       <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavjais2503&repo=ipl-cricket-predictor&theme=dark&hide_border=true" />
+<a href="https://github.com/vaibhavjais2503/ipl-cricket-predictor-new">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavjais2503&repo=ipl-cricket-predictor-new&theme=dark&hide_border=true" />
      </a>
 </p>
 <p align="center">
@@ -83,8 +83,8 @@
 
 ## 🗂️ All Public Repositories 
 <!--AUTO-REPO-LIST:START-->
-- [vaibhavjais2503](https://github.com/vaibhavjais2503/vaibhavjais2503) — HELLO EVERYONE  • ★ 0 • updated 2025-09-04
-- [ipl-cricket-predictor](https://github.com/vaibhavjais2503/ipl-cricket-predictor) — _No description_  • ★ 0 • updated 2025-09-03
+- [vaibhavjais2503](https://github.com/vaibhavjais2503/vaibhavjais2503) — HELLO EVERYONE  • ★ 0 • updated 2025-09-05
+- [ipl-cricket-predictor-new](https://github.com/vaibhavjais2503/ipl-cricket-predictor-new) — A Streamlit web app that predicts IPL match outcomes using machine learning on historical match and delivery data.  • ★ 0 • updated 2025-09-04
 - [webhook-inbox](https://github.com/vaibhavjais2503/webhook-inbox) — A lightweight backend service to capture, inspect, and manage webhooks. Built with Node.js, Express, and SQLite.  • ★ 0 • updated 2025-09-01
 - [Plant_Disease_Detection](https://github.com/vaibhavjais2503/Plant_Disease_Detection) — _No description_  • ★ 0 • updated 2025-08-25
 - [SpamShield](https://github.com/vaibhavjais2503/SpamShield) — _No description_  • ★ 0 • updated 2025-04-13
