@@ -90,7 +90,7 @@
 - [ipl-cricket-predictor-new](https://github.com/vaibhavjais2503/ipl-cricket-predictor-new) — A Streamlit web app that predicts IPL match outcomes using machine learning on historical match and delivery data.  • ★ 1 • updated 2025-09-13
 - [Plant_Disease_Detection](https://github.com/vaibhavjais2503/Plant_Disease_Detection) — _No description_  • ★ 1 • updated 2025-08-25
 - [vaibhavjais2503](https://github.com/vaibhavjais2503/vaibhavjais2503) — HELLO EVERYONE  • ★ 0 • updated 2025-12-14
-- [AI-Stock-Dashboard](https://github.com/vaibhavjais2503/AI-Stock-Dashboard) — AI stock predictor  • ★ 0 • updated 2025-12-13
+- [AI-Stock-Dashboard](https://github.com/vaibhavjais2503/AI-Stock-Dashboard) — AI Stock Dashboard is a Streamlit web app that shows real-time/historical stock data with interactive charts, key metrics, and optional AI insights like sentiment and forecasting.  • ★ 0 • updated 2025-12-14
 - [AdminDashBoard](https://github.com/vaibhavjais2503/AdminDashBoard) — Admin Dash Board using react  • ★ 0 • updated 2025-12-11
 - [webhook-inbox](https://github.com/vaibhavjais2503/webhook-inbox) — A lightweight backend service to capture, inspect, and manage webhooks. Built with Node.js, Express, and SQLite.  • ★ 0 • updated 2025-09-01
 - [SpamShield](https://github.com/vaibhavjais2503/SpamShield) — _No description_  • ★ 0 • updated 2025-04-13
